@@ -8,7 +8,7 @@ This notebook covers the foundational phase of the project, where the core convo
 	•	Defined and implemented a custom CNN architecture optimized for binary classification (“mass” vs “no finding”) using the NIH ChestX-ray14 dataset.
 	•	Experimented with different layer configurations, activation functions, and regularization strategies.
 	•	Preprocessed raw image data, including resizing, normalization, and basic dataset construction.
-	•	Included extensive code for data loading, visualization, model compilation, and early testing.
+	•	Mainly code for data loading, visualization, model compilation, and early testing.
 
 Focus: Pure CNN model engineering — from dataset construction to working architecture.
 
