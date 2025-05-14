@@ -29,7 +29,7 @@ Focus: Controlled experimental design and analysis of generalization performance
 3. Final Project Report: AM_Neuro240_FinalProject_Submission
 This notebook contains the final stage of the project, focused on model interpretability and synthesis.
 	•	Applied Grad-CAM to visualize which regions of chest X-rays contributed most to the CNN’s predictions, providing insight into the model’s decision-making process.
-	•	Used these visualizations to qualitatively assess whether the model’s attention aligned with radiologically plausible regions.
+	•	Used these visualizations to qualitatively assess, via the heatmap functionality, whether the model’s attention aligned with radiologically plausible regions.
 	•	Integrated key results from prior experiments into a coherent final report, highlighting how data size, class balancing, and augmentation influenced performance.
 
 Focus: Interpreting model behavior through Grad-CAM and summarizing project findings in a clear, well-documented form.
